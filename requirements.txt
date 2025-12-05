@@ -22,7 +22,7 @@ pycparser==2.19
 Pyphen==0.9.5
 python-dotenv==0.14.0
 pytz==2019.3
-requests==2.22.0
+requests==2.32.4
 six==1.12.0
 sqlparse==0.3.0
 tinycss2==1.0.2
